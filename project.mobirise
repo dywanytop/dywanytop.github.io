@@ -1,0 +1,714 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "dywanyrowery 10mb",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#d14841",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.8.7",
+    "uniqCompNum": 32,
+    "versionPublish": "3.9.0",
+    "publishType": "github",
+    "ftpLocation": "ftp://dywanyro_dawpcJp@wacek.hostinghouse.pl:21",
+    "publishFtpPath": "",
+    "favicon": "",
+    "noImageResize": "",
+    "publishPath": "file:///C:/Users/Asus/Desktop/dywany.top",
+    "path": "file:///C:/Users/Asus/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-11-11_184919",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "30px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dywanyrowery-wdit-2000x1500-97.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"line-height: 1.1;\">Ponad 20-letnie doświadczenie !</span><div><span style=\"line-height: 1.1;\">Największy wybór w rejonie !</span></div><div><span style=\"line-height: 1.1;\">Konkurencyjne ceny !<br></span></div><div><br></div><div><br></div>",
+          "text": "<b style=\"font-weight: bold; font-style: normal;\"><a href=\"http://dywanyrowery.konin.pl/dojazd-i-kontakt/\" class=\"text-white\">Słupca, ul. Kopernika 11d</a><br></b><a href=\"http://dywanyrowery.konin.pl/dojazd-i-kontakt/\" class=\"text-white\">Konin, ul. Spółdzielców 9 (HALA)</a><br>Golina, ul. Kolejowa 1b<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "80px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/konin-2-2000x1332-88.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/dywany/\" class=\"text-warning\">TYSIĄCE DYWANÓW</a><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/nasze-dywany-w-sklepach/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://dywanyrowery.konin.pl/dywany/katalogi/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KATALOGI</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/konin-4-2000x1332-76.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dywan-male-strona-1400x933-67.jpg",
+              "link": "http://dywanyrowery.konin.pl/dywany/shaggy/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Nowoczesne dywany shaggy",
+          "text": "Nasze 20 letnie doświadczenie przekłada &nbsp;się na wybór dla Państwa najlepszych kolekcji dywanów pod względem designu, jakości i ceny.&nbsp;Współprcujemy z kilkoma fabrykami i importerami min. Agnella, Weltom, Dywilan, Berfin, Jarpol.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://dywanyrowery.konin.pl/dywany/shaggy/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#d14841!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-mini-ok-185x128-28.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://dywanyrowery.konin.pl",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "http://dywanyrowery.konin.pl",
+              "size": "200",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://dywanyrowery.konin.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DYWANY ROWERY WYKŁADZINY</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>STRONA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/fkarnafel\" aria-expanded=\"false\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/rowerem.po.dywanach/\" aria-expanded=\"false\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Prawa autorskie www.dywany.top. Wszelkie prawa zastrzeżone."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "80px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rowery-mini-2000x1296-43.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span style=\"line-height: 1.1;\"><a href=\"http://dywanyrowery.konin.pl/rowery/\">MNÓSTWO </a></span><span style=\"line-height: 1.1;\"><a href=\"http://dywanyrowery.konin.pl/rowery/\">ROWERÓW</a></span><br><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/rowery/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/row-mini-2-2000x1264-92.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dsc00081-1400x934-36.jpg",
+              "link": "http://dywanyrowery.konin.pl/rowery/storm/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Polskie rowery",
+          "text": "Oferujemy rodzime firmy, które dbają o każdy szczegół i stosują markowe komponenty Shimano. <br>W sezonie dbamy o szeroki wybór i niską cene, organizując własny transport z fabryki do &nbsp;magazynu.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://dywanyrowery.konin.pl/rowery/storm/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "80px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header1-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20130820-133619-2000x1500-7.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/wykladziny/\" class=\"text-white\">WYKŁADZINY dywanowe i PCV</a><br><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/wykladziny/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "80px",
+              "text-align": "center",
+              "color": "#fac51c"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px",
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "header1-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00643-2000x1334-77.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/chodniki/\" class=\"text-white\">CHODNIKI</a><br><br><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/chodniki/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc01601-2000x1334-60.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/wycieraczki-i-chodniczki/\" class=\"text-white\">WYCIERACZKI</a>",
+          "text": "<p>Posiadamy szeroki wybór wycieraczek wszelkiego typu.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc09482-2000x1334-23.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/akcesoria/\" class=\"text-white\">AKCESORIA</a>",
+          "text": "Mamy wszystkie niezbędne części rowerowe oraz akcesoria dla niewymgających.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-lazienkowe-male-2-2000x1138-7.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/dywaniki-lazienkowe/\" class=\"text-white\">DYWANIKI ŁAZIENKOWE</a>",
+          "text": "<p>Różne rodzaje, przystepne ceny !</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc09700-2000x1335-96.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<a href=\"http://dywanyrowery.konin.pl/dla-dzieci/\" class=\"text-white\">TRYCYKLE, ROWERKI DZIECIĘCE</a>, BIEGOWE&nbsp;i inne",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-t",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "52.293722, 17.867913",
+              "placeId": "ChIJV21gLgnGBEcRCjLH2mKomj4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-u",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "52.231167, 18.235015",
+              "placeId": "ChIJt-NUeQc0G0cRBzw5BPN42ho",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-mini-ok-128x88-79.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br><br>",
+          "text2": "<strong>Kontakt</strong><br>KONIN, ul. Spółdzielców 9, <br>tel. 63 243 10 68<br><br>SŁUPCA, ul. Kopernika 11d, <br>tel. 63 274 08 34<br>",
+          "text3": "&nbsp;",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#e25041"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
