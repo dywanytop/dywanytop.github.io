@@ -1,2 +1,2 @@
 # dywanytop.github.io
-GitHub Pages
+Inforomacje o firmie DYWANY ROWERY WYKŁADZINY
