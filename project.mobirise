@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "dywany.top - Sklep internetowy.html",
     "name": "dywanyrowery 10mb",
     "theme": {
       "name": "mobirise3",
@@ -17,27 +17,24 @@
         "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.8.7",
     "uniqCompNum": 32,
-    "versionPublish": "3.9.0",
-    "publishType": "github",
-    "ftpLocation": "ftp://dywanyro_dawpcJp@wacek.hostinghouse.pl:21",
-    "publishFtpPath": "",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "publishPath": "file:///C:/Users/Asus/Desktop/dywany.top",
-    "path": "file:///C:/Users/Asus/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-11-11_184919",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "dywany.top - Sklep internetowy.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "dywany.top - sklep internetowy z dywanami",
+        "meta_descr": "dywany, dywany nowoczesne, dywany agnella, dywany wełniane, dywany dla dziecka, dywanyłuszczow, berfin, weltom, dywilan, shaggy, dywany shaggy, dywan jednolity, owalny, tradycyjny, akrylowy, sznurkowy, makata",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -83,7 +80,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -91,8 +88,8 @@
             "showButtons": true
           },
           "title": "<span style=\"line-height: 1.1;\">Ponad 20-letnie doświadczenie !</span><div><span style=\"line-height: 1.1;\">Największy wybór w rejonie !</span></div><div><span style=\"line-height: 1.1;\">Konkurencyjne ceny !<br></span></div><div><br></div><div><br></div>",
-          "text": "<b style=\"font-weight: bold; font-style: normal;\"><a href=\"http://dywanyrowery.konin.pl/dojazd-i-kontakt/\" class=\"text-white\">Słupca, ul. Kopernika 11d</a><br></b><a href=\"http://dywanyrowery.konin.pl/dojazd-i-kontakt/\" class=\"text-white\">Konin, ul. Spółdzielców 9 (HALA)</a><br>Golina, ul. Kolejowa 1b<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> "
+          "text": "<b style=\"font-weight: bold; font-style: normal;\">Słupca, ul. Kopernika 11d<br></b><b>Konin, ul. Spółdzielców 9 (HALA)</b><br><b>Golina, ul. Kolejowa 1b</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/fkarnafel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.dywany.top\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SKLEP INTERNETOWY</a> "
         },
         {
           "_tags": [
@@ -135,7 +132,7 @@
           },
           "title": "<a href=\"http://dywanyrowery.konin.pl/dywany/\" class=\"text-warning\">TYSIĄCE DYWANÓW</a><br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/nasze-dywany-w-sklepach/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://dywanyrowery.konin.pl/dywany/katalogi/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KATALOGI</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://dywanyrowery.konin.pl/nasze-dywany-w-sklepach/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OFERTA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.dywany.top\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SKLEP &nbsp;INTERNETOWY</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://dywanyrowery.konin.pl/dywany/katalogi/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KATALOGI</a> "
         },
         {
           "_tags": [
@@ -144,6 +141,7 @@
           "_name": "header2",
           "_anchor": "header2-3",
           "_params": {
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/konin-4-2000x1332-76.jpg",
@@ -205,10 +203,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -250,7 +248,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "1.15",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -258,7 +256,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -286,7 +284,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://dywanyrowery.konin.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DYWANY ROWERY WYKŁADZINY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-persona mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>STRONA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/fkarnafel\" aria-expanded=\"false\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/rowerem.po.dywanach/\" aria-expanded=\"false\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://dywany.top\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(226, 80, 65);\"></span>SKLEP INTERNETOWY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/fkarnafel\" aria-expanded=\"false\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/rowerem.po.dywanach/\" aria-expanded=\"false\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -354,6 +352,7 @@
           "_name": "header2",
           "_anchor": "header2-7",
           "_params": {
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/row-mini-2-2000x1264-92.jpg",
@@ -667,6 +666,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#e25041"
+            }
+          },
           "_anchor": "contacts1-v",
           "_params": {
             "paddingTop": 3,
@@ -698,15 +705,7 @@
           },
           "text1": "<br><br>",
           "text2": "<strong>Kontakt</strong><br>KONIN, ul. Spółdzielców 9, <br>tel. 63 243 10 68<br><br>SŁUPCA, ul. Kopernika 11d, <br>tel. 63 274 08 34<br>",
-          "text3": "&nbsp;",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#e25041"
-            }
-          }
+          "text3": "&nbsp;"
         }
       ]
     }
