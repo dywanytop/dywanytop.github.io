@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dywany.top - Sklep internetowy.html",
+    "currentPage": "index.html",
     "name": "dywanyrowery 10mb",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "dywany.top - Sklep internetowy.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "dywany.top - sklep internetowy z dywanami",
